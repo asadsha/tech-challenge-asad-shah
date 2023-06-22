@@ -8,6 +8,7 @@ function App() {
       {/* Content area */}
       <div className='flex-fill'>
         {/* Render the primary routes */}
+        {/* rrrr */}
         <RoutesPrimary />
       </div>
     </main>
